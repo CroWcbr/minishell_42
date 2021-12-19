@@ -14,5 +14,5 @@ Group project (Kazan School21):
 All
 
 ## Bonus part
-&&, || with parenthesis for priorities.
-the wildcard * should work for the current working directory.
+- &&, || with parenthesis for priorities.
+- the wildcard * should work for the current working directory.
